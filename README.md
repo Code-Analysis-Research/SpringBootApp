@@ -10,4 +10,4 @@ Run:
 mvn clean install sonar:sonar \
   -Dsonar.projectKey=com.codeanalysis:spring-boot-sample-app \
   -Dsonar.host.url=http://localhost:9000 \
-  -Dsonar.login=ae0a6227f9af8a3bb328ca3db064643089b26dea
+  -Dsonar.login=ab1e451e867e4d967b208817b63a1430794a91b4
